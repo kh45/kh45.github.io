@@ -57,3 +57,7 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
+
+.col-lg-12 {
+  border: 1px solid red;
+}
