@@ -24,6 +24,7 @@ header.startup {
   background-image: url("header.jpg");
   background-size: cover;
   height: 100%;
+  border: 1px solid red;
 }
 
 header.startup hr {
