@@ -60,4 +60,5 @@ header.startup h1 {
 
 .clear {
   display: flex;
+  justify-content: center;
   }
