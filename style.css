@@ -59,6 +59,7 @@ header.startup h1 {
 }
 
 .clear {
-  display: flex;
-  justify-content: center;
+  /*display: flex;*/
+  /*justify-content: center;*/
+  border: 1px solid red;
   }
