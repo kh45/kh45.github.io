@@ -60,8 +60,6 @@ header.startup h1 {
   cursor: pointer;
 }
 
-/*.clear {
-  display: flex;
-  justify-content: center;
-  border: 20px solid red;
-  }*/
+.col-lg-12l {
+  border: 2px solid red;
+  }
