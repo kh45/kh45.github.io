@@ -24,8 +24,6 @@ header.startup {
   background-image: url("header.jpg");
   background-size: cover;
   height: 100%;
-  border: 1px solid red;
-  justify-content: center;
 }
 
 header.startup hr {
@@ -59,7 +57,3 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
-
-.col-lg-12 {
-  border: 2px solid red;
-  }
