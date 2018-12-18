@@ -25,6 +25,7 @@ header.startup {
   background-size: cover;
   height: 100%;
   border: 1px solid red;
+  justify-content: center;
 }
 
 header.startup hr {
@@ -59,8 +60,8 @@ header.startup h1 {
   cursor: pointer;
 }
 
-.clear {
-  /*display: flex;*/
-  /*justify-content: center;*/
+/*.clear {
+  display: flex;
+  justify-content: center;
   border: 20px solid red;
-  }
+  }*/
